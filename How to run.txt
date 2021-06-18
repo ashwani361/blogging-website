@@ -1,0 +1,4 @@
+nodemon app
+
+
+http://localhost:3000/blogs
