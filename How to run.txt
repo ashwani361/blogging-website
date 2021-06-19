@@ -2,3 +2,5 @@ nodemon app
 
 
 http://localhost:3000/blogs
+
+https://my-nodejs-blog-app2.herokuapp.com/
